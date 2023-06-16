@@ -5,7 +5,7 @@
 
 ## Info utilisation
 
-Toutes les commandes et les formes s'écrivent en majuscule. 
+Toutes les commandes et les formes s'écrivent en MAJUSCULE. 
 Pour afficher les commandes générale, tapez HELP.
 Pour afficher toutes les formes, tapez SHAPE.
 
