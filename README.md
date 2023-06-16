@@ -6,7 +6,7 @@
 ## Info utilisation
 
 Toutes les commandes et les formes s'écrivent en MAJUSCULE. 
-Pour afficher les commandes générale, tapez HELP.
+Pour afficher les commandes générales, tapez HELP.
 Pour afficher toutes les formes, tapez SHAPE.
 
 ## Utilité des fonctions
